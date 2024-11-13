@@ -1,13 +1,4 @@
-# SQL_
-
 # **저출산 원인 분석 프로젝트
-
-
-# R_study
-
-안녕하세요.
-
-복습 및 기록을 위하여 R 수업 내용을 정리하였습니다.
 
 <img src="https://github.com/chonny1210/SQL_portfolio/blob/main/PPT/1.png" width="600" height="400">
 
