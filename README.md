@@ -1,6 +1,6 @@
 # **저출산 원인 분석 프로젝트
 
-<img src="https://github.com/chonny1210/SQL_portfolio/blob/main/PPT/1.png" width="600" height="400">
+<img src="https://github.com/chonny1210/SQL_portfolio/blob/main/PPT/1.png" width="800" height="400">
 
 &nbsp; 
 
